@@ -1,4 +1,4 @@
-# -airbnb-clone-project
+# airbnb-clone-project
 📌 Team Roles
 Role	Responsibilities
 Backend Developer	Develops and maintains RESTful and GraphQL APIs, handles business logic, and ensures application performance and scalability.
